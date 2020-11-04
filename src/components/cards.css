@@ -1,0 +1,59 @@
+.product-view .productbox {
+  text-align: center;
+  padding: 30px;
+  background-color: #fff !important;
+  margin-bottom: 30px;
+}
+
+.item {
+  text-align: center;
+}
+
+.productbox .productName {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 8px;
+  margin-top: 0px;
+  color: inherit;
+}
+
+.description {
+  font-size: 15px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+
+.products {
+  padding: 50px 0;
+}
+
+.btnR {
+  border: none;
+  color: white;
+  padding: 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  transition-duration: 0.4s;
+  background-color: #4caf50;
+}
+
+.btnR:hover {
+  background-color: #bcdabd;
+}
+
+.learn-more {
+  cursor: pointer;
+}
+
+.box-img {
+  width: 250px;
+  height: 250px;
+}
+
+.orig-Price {
+  text-decoration: line-through;
+  font-size: 12px;
+  padding-right: 2px;
+}

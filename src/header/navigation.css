@@ -1,0 +1,52 @@
+.navigation-clean-search {
+  background: #fff;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  color: #333;
+  border-radius: 0;
+}
+
+.nav-Link {
+  color: rgba(0, 0, 0, 0.5);
+  padding-right: 2rem;
+}
+
+.nav-Link:hover {
+  color: rgba(0, 0, 0, 5);
+  text-decoration: none;
+}
+
+.search-bar {
+  float: right;
+  margin-right: 0rem !important;
+}
+
+.navbar-brand {
+  float: left;
+  margin-left: 0.5rem;
+}
+
+.main-nav-comp {
+  margin-left: 3rem;
+}
+
+.product-view {
+  color: #313437;
+  background-color: #eef4f7;
+}
+
+.button-cart {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.modalShow {
+  display: block !important;
+  padding-right: 16px !important;
+}
+
+.items-cart {
+  color: #808080;
+}
